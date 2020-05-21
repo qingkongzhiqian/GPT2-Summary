@@ -9,6 +9,7 @@
 - GPT2-chitchat参考：https://link.zhihu.com/?target=https%3A//github.com/yangjianxin1/GPT2-chitchat
 - 项目工作流程详见：https://zhuanlan.zhihu.com/p/113869509
 - 本项目为GPT2-chitchat稍作修改的内容，在此也感谢大佬的分享。
+- 由于NLPCC的摘要数据为新闻语料，涉及话题和内容较多，应用在垂直领域下效果会好一些。
 
 ## 运行环境
 python3.6、 transformers==2.1.1、pytorch==1.3.1
